@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Jane Doe",
+  "author": "Hanzala arfat",
   "license": "ISC",
   "dependencies": {
     "@vonage/server-sdk": "^2.10.8",
